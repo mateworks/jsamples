@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ElasticsearchSamples/ElasticsearchSamples.iml" filepath="$PROJECT_DIR$/ElasticsearchSamples/ElasticsearchSamples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JSamples.iml" filepath="$PROJECT_DIR$/JSamples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringBootSample/SpringBootSample.iml" filepath="$PROJECT_DIR$/SpringBootSample/SpringBootSample.iml" />
+    </modules>
+  </component>
+</project>
