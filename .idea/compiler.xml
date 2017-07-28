@@ -29,7 +29,8 @@
     <bytecodeTargetLevel>
       <module name="CodeSamples" target="1.8" />
       <module name="ElasticsearchSamples" target="1.8" />
-      <module name="SpringBootSample" target="1.8" />
+      <module name="JSamples" target="1.8" />
+      <module name="SpringBootSample" target="1.5" />
       <module name="SpringCloudSamples" target="1.8" />
     </bytecodeTargetLevel>
   </component>
