@@ -23,15 +23,25 @@
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
         <module name="ElasticsearchSamples" />
+        <module name="es_exp" />
+        <module name="java_cores" />
+        <module name="java_tools" />
+        <module name="springboot_exp" />
         <module name="SpringBootSample" />
+        <module name="sprintboot_exp" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="CodeSamples" target="1.8" />
       <module name="ElasticsearchSamples" target="1.8" />
+      <module name="es_exp" target="1.8" />
+      <module name="java_cores" target="1.8" />
+      <module name="java_tools" target="1.8" />
       <module name="JSamples" target="1.8" />
+      <module name="springboot_exp" target="1.8" />
       <module name="SpringBootSample" target="1.5" />
       <module name="SpringCloudSamples" target="1.8" />
+      <module name="sprintboot_exp" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>

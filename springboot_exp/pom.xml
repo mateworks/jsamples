@@ -4,13 +4,13 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <parent>
         <artifactId>Mateworks</artifactId>
-        <groupId>SpringCloudSamples</groupId>
+        <groupId>JSamples</groupId>
         <version>1.0-SNAPSHOT</version>
     </parent>
 
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>SpringBootSample</artifactId>
+    <artifactId>springboot_exp</artifactId>
 
     <properties>
         <java.version>1.8</java.version>

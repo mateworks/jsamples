@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/ElasticsearchSamples/ElasticsearchSamples.iml" filepath="$PROJECT_DIR$/ElasticsearchSamples/ElasticsearchSamples.iml" />
       <module fileurl="file://$PROJECT_DIR$/JSamples.iml" filepath="$PROJECT_DIR$/JSamples.iml" />
-      <module fileurl="file://$PROJECT_DIR$/SpringBootSample/SpringBootSample.iml" filepath="$PROJECT_DIR$/SpringBootSample/SpringBootSample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/es_exp/es_exp.iml" filepath="$PROJECT_DIR$/es_exp/es_exp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java_cores/java_cores.iml" filepath="$PROJECT_DIR$/java_cores/java_cores.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java_tools/java_tools.iml" filepath="$PROJECT_DIR$/java_tools/java_tools.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot_exp/SpringBootSample.iml" filepath="$PROJECT_DIR$/springboot_exp/SpringBootSample.iml" />
     </modules>
   </component>
 </project>
